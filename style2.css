@@ -1,0 +1,90 @@
+@media screen and (max-width: 600px) {
+  header {
+    background-image: url(images/bg-header-mobile.png);
+  }
+
+  .history {
+    width: 350px;
+    padding: 0;
+  }
+
+  h1 {
+    font-size: 2rem;
+    line-height: 40px;
+  }
+
+  .download {
+    flex-direction: column;
+  }
+
+  .details {
+    font-size: 15px;
+  }
+
+  button {
+    padding: 20px 15px;
+  }
+
+  .keep-track,
+  .access,
+  .supercharge,
+  .clipboard {
+    width: 350px;
+    justify-content: center;
+    margin: 100px auto 40px;
+  }
+
+  .computer-div {
+    flex-direction: column;
+    margin-top: 100px;
+    display: flex;
+    text-align: center;
+    gap: 10%;
+    align-items: center;
+    margin-bottom: 100px;
+  }
+
+  .computer {
+    margin: 10px auto;
+    width: 90%;
+  }
+
+  .quick {
+    width: 350px;
+    gap: 60px;
+  }
+
+  .create-plain-sneak {
+    flex-direction: column;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+  }
+
+  .create-plain-sneak > div {
+    width: 350px;
+  }
+
+  .logos {
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  footer {
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  .contact {
+    font-weight: 500;
+    width: 350px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contact > div {
+    width: 100%;
+  }
+}

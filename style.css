@@ -8,8 +8,6 @@
 body {
   color: hsl(210, 10%, 33%);
   text-align: center;
-  /* align-items: center; */
-  /* justify-content: center; */
   overflow-x: hidden;
   line-height: 30px;
   font-family: "Bai Jamjuree", sans-serif;
