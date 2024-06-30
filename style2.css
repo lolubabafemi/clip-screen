@@ -64,6 +64,7 @@
 
   .create-plain-sneak > div {
     width: 350px;
+    margin: auto;
   }
 
   .logos {

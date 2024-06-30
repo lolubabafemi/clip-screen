@@ -152,7 +152,15 @@ footer {
   width: 200px;
 }
 
+.contact > div:hover {
+  color: hsl(171, 66%, 44%);
+}
+
 .socials {
   display: flex;
   gap: 20px;
+}
+
+.socials > div:hover {
+  color: hsl(171, 66%, 44%);
 }
